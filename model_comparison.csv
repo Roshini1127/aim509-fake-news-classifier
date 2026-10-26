@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Logistic Regression,0.6666666666666666,1.0,0.5,0.6666666666666666
+Naive Bayes,1.0,1.0,1.0,1.0
+Linear SVM,1.0,1.0,1.0,1.0
